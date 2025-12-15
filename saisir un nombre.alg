@@ -8,7 +8,7 @@
     <param totalAffichages="1000" totalBoucles="5000000" epaisseurPoint="2" arrondiAuto="vrai" epaisseurLigne="2" maxBoucle="500000" nbDecimales="8"/>
     <item algoitem="FONCTIONS_UTILISEES" code="200#declarationfonctions"/>
     <item algoitem="VARIABLES" code="100#declarationsvariables">
-        <item algoitem="a EST_DU_TYPE NOMBRE" code="1#NOMBRE#n"/>
+        <item algoitem="b EST_DU_TYPE NOMBRE" code="1#NOMBRE#n"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="AFFICHER &quot;Entrer un nombre :&quot;" code="4#Entrer un nombre :#1"/>
